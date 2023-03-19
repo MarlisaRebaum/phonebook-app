@@ -3,11 +3,6 @@
 an app that allows users to create an account and saves their user information
 in a database table.
 
-***Please Note:*** *The app is hosted on Heroku. As of November 28, 2022 Heroku no 
-longer offers a free version. I have not upgraded to a paid version and as a result, 
-the app does not currently pull the database. I am aware of this problem and 
-will look for solutions. In the meantime, please still check my code :blush:*
-
 ## Table of Contents
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)

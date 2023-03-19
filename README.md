@@ -68,11 +68,12 @@ Project is:  _complete_
 ## Room for Improvement
 The project has lots of room for improvement, including:
 
-- writing CRUD opertions to allow users to create a phonebook, add contacts to 
-their phonebook, update contacts in their phonebook, and delete contacts from 
-their phonebook
-- improve the design of the phonebook app
-- allow users to update their profile information, like their email address
+- Creating a frontend that actually makes use of the contact table created in
+this app. Right now, users are only able to create an account or login and view
+their user token. Creating a frontend utilizing the CRUD opertions would allow
+users to actually view their phonebook and add, delete, and edit contact.
+- Improve the design of the phonebook app.
+- Allow users to update their profile information, like their email address.
 
 ## Contact
 Created by [Marlisa Rebaum](https://www.linkedin.com/in/marlisarebaum/) - feel free to contact me!
